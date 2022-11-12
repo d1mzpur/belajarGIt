@@ -1,8 +1,3 @@
 Aku Dimas
 Aku Hafizi
-Aku Lagi
-<<<<<<< HEAD
-
-=======
-affa iyah
->>>>>>> 86b9a33655588d8db09b47ccd0d4b8c0ee9076bf
+Aku Lagi makan somay
